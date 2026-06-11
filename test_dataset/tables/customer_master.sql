@@ -1,4 +1,4 @@
-/*CREATE TABLE `prj-application-uat.test_dataset.customer_master`
+CREATE TABLE `prj-application-uat.test_dataset.customer_master`
 (
     customer_id INT64,
     customer_name STRING,
@@ -10,6 +10,6 @@
     country STRING,
     created_timestamp TIMESTAMP
 );
-*/
-ALTER TABLE `prj-application-uat.test_dataset.customer_master`
-ADD COLUMN customer_status STRING;
+
+-- ALTER TABLE `prj-application-uat.test_dataset.customer_master`
+-- ADD COLUMN customer_status STRING;

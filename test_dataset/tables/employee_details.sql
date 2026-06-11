@@ -7,3 +7,4 @@ CREATE TABLE `prj-application-uat.test_dataset.employee_details`
     is_active BOOL,
     created_timestamp TIMESTAMP
 ); 
+ 

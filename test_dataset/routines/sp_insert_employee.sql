@@ -2,7 +2,7 @@ CREATE OR REPLACE PROCEDURE `prj-application-uat.test_dataset.sp_insert_employee
 (
     p_employee_id INT64,
     p_employee_name STRING,
-    p_department STRING,
+    p_department STRING, 
     p_salary NUMERIC
 )
 BEGIN

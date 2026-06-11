@@ -8,3 +8,4 @@ CREATE TABLE `prj-application-uat.test_dataset.product_master`
     stock_quantity INT64,
     created_timestamp TIMESTAMP
 ); 
+ 

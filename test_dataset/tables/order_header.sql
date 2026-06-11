@@ -8,3 +8,4 @@ CREATE OR REPLACE TABLE `prj-application-uat.test_dataset.order_header`
     payment_mode STRING,
     created_timestamp TIMESTAMP
 ); 
+ 

@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS `prj-application-uat.test_dataset.employee_master`
     joining_date DATE,
     created_timestamp TIMESTAMP
 );
+ 

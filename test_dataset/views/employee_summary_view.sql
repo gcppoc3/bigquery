@@ -7,3 +7,4 @@ SELECT
     salary
 FROM `prj-application-uat.test_dataset.employee_master`
 WHERE salary > 50000;
+ 
