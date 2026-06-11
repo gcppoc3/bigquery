@@ -7,4 +7,4 @@ CREATE TABLE `prj-application-uat.test_dataset.product_master`
     price NUMERIC,
     stock_quantity INT64,
     created_timestamp TIMESTAMP
-);
+); 
