@@ -1,4 +1,4 @@
-CREATE TABLE `prj-application-uat.test_dataset.customer_master`
+CREATE TABLE `{{PROJECT_ID}}.test_dataset.customer_master`
 (
     customer_id INT64,
     customer_name STRING,

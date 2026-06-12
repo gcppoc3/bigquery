@@ -1,4 +1,4 @@
-CREATE TABLE `prj-application-uat.test_dataset.employee_details`
+CREATE OR REPLACE TABLE `{{PROJECT_ID}}.test_dataset.employee_details`
 (
     employee_id INT64,
     employee_name STRING,

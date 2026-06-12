@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `prj-application-uat.test_dataset.order_header`
+CREATE OR REPLACE TABLE `p{{PROJECT_ID}}.test_dataset.order_header`
 (
     order_id INT64,
     customer_id INT64,

@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `prj-application-uat.test_dataset.employee_master`
+CREATE TABLE IF NOT EXISTS `{{PROJECT_ID}}.test_dataset.employee_master`
 (
     employee_id INT64,
     employee_name STRING,
